@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **Python, Fastapi**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">erkindurdyyew1517@gmail.com
-</p>
+- 📫 How to reach me **erkindurdyyew1517@gmail.com**
+
+
 
 <hr/> 
  <p align='center'>
